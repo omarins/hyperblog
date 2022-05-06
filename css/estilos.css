@@ -37,6 +37,9 @@ body{
 .post{
   margin-left: 10px;
 }
+#principal{
+  width: 98%;
+}
 #footer{
   background: #777;
   color: white;
