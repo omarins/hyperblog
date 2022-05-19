@@ -30,6 +30,8 @@ body{
   text-align: left;
   border: 1px solid #DDD;
   margin: 0 auto;
+  margin-top: 50px;
+  background-color: #DDD;
 }
 #container h1{
   font-size: 20px;
